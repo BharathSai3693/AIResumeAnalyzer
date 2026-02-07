@@ -1,0 +1,156 @@
+
+{
+    "resumeJson"  : {
+        "basics" : {
+            "name" : "",
+            "email" : "",
+            "phone" : "",
+            "location" : "",
+            "linkedin" : "",
+            "github" : "",
+            "portfolio" : ""
+        },
+        "summary" : "",
+        "skills" : [
+            {"skill1(Langauges)" : "python, Java, c++"},
+            {"skill2(backend)" : "Spring, Spring MVC, Nodejs"},
+            {"skill3(frontend)" : "react, nextjs"}
+        ],
+        "experience" : [
+            {
+                "company": "",
+                "role": "",
+                "location": "", 
+                "startDate": "", 
+                "endDate": "", 
+                "isCurrent": "", 
+                "points" : ["", "", "", "", "", ""] 
+            },
+            {
+                "company": "",
+                "role": "",
+                "location": "", 
+                "startDate": "", 
+                "endDate": "", 
+                "isCurrent": "", 
+                "points" : ["", "", "", "", "", ""] 
+            }
+        ],
+        "projects" : [
+            {
+                "name" : "",
+                "technologies" : "", 
+                "link" : "",
+                "points" : ["", "", "", ""]
+            },
+            {
+                "name" : "",
+                "technologies" : "", 
+                "link" : "",
+                "points" : ["", "", "", ""]
+            }
+        ],
+        "education" : [
+            {
+                "institution" : "", 
+                "degree" : "",
+                "field" : "", 
+                "startDate" : "", 
+                "endDate" : ""
+            },
+            {
+                "institution" : "", 
+                "degree" : "",
+                "field" : "", 
+                "startDate" : "", 
+                "endDate" : ""
+            }
+        ],
+        "certificates" : [
+            {
+                "name" : "", 
+                "issuer" : "", 
+                "year" : ""
+            },
+            {
+                "name" : "", 
+                "issuer" : "", 
+                "year" : ""
+            }
+        ]
+    },
+    "analysisJson"  : {
+        "Required Keywords" : ["", "", ""],
+        "Matching Keywords" : ["", "", ""],
+        "Missing Keywords" : ["", "", ""],
+        "Analysis" : ["", "", "", ""],
+        "summary" : "",
+        "skills" : [
+            {"skill1(Langauges)" : "python, Java, c++"},
+            {"skill2(backend)" : "Spring, Spring MVC, Nodejs"},
+            {"skill3(frontend)" : "react, nextjs"}
+        ],
+        "experience" : [
+            {
+                "company": "",
+                "role": "",
+                "location": "", 
+                "startDate": "", 
+                "endDate": "", 
+                "isCurrent": "", 
+                "points" : ["", "", "", "", "", ""] 
+            },
+            {
+                "company": "",
+                "role": "",
+                "location": "", 
+                "startDate": "", 
+                "endDate": "", 
+                "isCurrent": "", 
+                "points" : ["", "", "", "", "", ""] 
+            }
+        ],
+        "projects" : [
+            {
+                "name" : "",
+                "technologies" : "", 
+                "link" : "",
+                "points" : ["", "", "", ""]
+            },
+            {
+                "name" : "",
+                "technologies" : "", 
+                "link" : "",
+                "points" : ["", "", "", ""]
+            }
+        ],
+        "education" : [
+            {
+                "institution" : "", 
+                "degree" : "",
+                "field" : "", 
+                "startDate" : "", 
+                "endDate" : ""
+            },
+            {
+                "institution" : "", 
+                "degree" : "",
+                "field" : "", 
+                "startDate" : "", 
+                "endDate" : ""
+            }
+        ],
+        "certificates" : [
+            {
+                "name" : "", 
+                "issuer" : "", 
+                "year" : ""
+            },
+            {
+                "name" : "", 
+                "issuer" : "", 
+                "year" : ""
+            }
+        ]
+    }
+}

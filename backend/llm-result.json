@@ -1,0 +1,604 @@
+{
+  "resumeJson": {
+    "basics": {
+      "name": "Sai Bharath Padigala",
+      "email": "saibharath3693@gmail.com",
+      "phone": "+1 7162756617",
+      "location": "",
+      "linkedin": "",
+      "github": "github.com/BharathSai3693",
+      "portfolio": ""
+    },
+    "summary": {
+      "id": "summary-1",
+      "text": "Senior Software Engineer with 3.5+ years of experience delivering full-stack enterprise applications using Java, Spring Boot, React, SQL, and CI/CD pipelines. Proven track record supporting production systems, resolving defects, and building scalable, API-driven platforms in Agile environments. Strong background in microservices, cloud-ready architectures, database optimization, and cross-functional collaboration within regulated, high-availability systems."
+    },
+    "skills": [
+      {
+        "id": "skill-1",
+        "Languages": "Java, JavaScript, TypeScript, Python"
+      },
+      {
+        "id": "skill-2",
+        "Backend Development": "Spring Boot, RESTful API Design, Microservices, Service-Oriented Architecture"
+      },
+      {
+        "id": "skill-3",
+        "Frontend Technologies": "React, Angular, Redux, Component-Based UI Development"
+      },
+      {
+        "id": "skill-4",
+        "Databases": "SQL (PostgreSQL, Oracle), NoSQL, Query Optimization, Indexing, Transactions"
+      },
+      {
+        "id": "skill-5",
+        "Messaging & Integration": "Kafka, Event-Driven Architecture, Message Ordering, Idempotency"
+      },
+      {
+        "id": "skill-6",
+        "DevOps & Tooling": "Git, GitHub Actions, CI/CD Pipelines, Docker, Build Automation"
+      },
+      {
+        "id": "skill-7",
+        "Testing & Quality": "Unit Testing, Integration Testing, JUnit, Mockito, Jest"
+      },
+      {
+        "id": "skill-8",
+        "Practices": "Agile/Scrum, Production Support, Defect Analysis, Code Reviews, Cross-Team Collaboration"
+      }
+    ],
+    "experience": [
+      {
+        "company": "Virginia Department of Social Services (VDSS)",
+        "role": "Software Engineer",
+        "location": "",
+        "startDate": "July 2025",
+        "endDate": "Present",
+        "isCurrent": "true",
+        "points": [
+          {
+            "id": "exp-1-1",
+            "text": "Designed and implemented full-stack application features using Java, Spring Boot, REST APIs, and React, supporting mission-critical eligibility and benefits workflows used by thousands of concurrent users."
+          },
+          {
+            "id": "exp-1-2",
+            "text": "Provided hands-on production support, performing root cause analysis (RCA) across services and databases to resolve high-priority defects, reducing recurring production incidents by 30%."
+          },
+          {
+            "id": "exp-1-3",
+            "text": "Collaborated within Agile Scrum teams alongside product owners, business analysts, and QA engineers to refine requirements, estimate work, and deliver sprint commitments with 95% on-time completion."
+          },
+          {
+            "id": "exp-1-4",
+            "text": "Optimized complex SQL queries, joins, and indexing strategies, reducing dashboard and report load times from 25s to under 5s and improving overall application responsiveness."
+          },
+          {
+            "id": "exp-1-5",
+            "text": "Automated CI/CD pipelines using GitHub Actions and Maven, introducing gated builds, automated tests, and release checks that reduced deployment failures by 45%."
+          },
+          {
+            "id": "exp-1-6",
+            "text": "Monitored application health using logs and performance metrics, proactively identifying bottlenecks and coordinating fixes to maintain high availability and system reliability."
+          }
+        ]
+      },
+      {
+        "company": "Accenture",
+        "role": "Software Engineer II",
+        "location": "",
+        "startDate": "Jan 2021",
+        "endDate": "Jul 2023",
+        "isCurrent": "false",
+        "points": [
+          {
+            "id": "exp-2-1",
+            "text": "Developed and enhanced Java Spring Boot microservices delivering RESTful APIs for large-scale payments and customer platforms, processing millions of transactions per month."
+          },
+          {
+            "id": "exp-2-2",
+            "text": "Owned end-to-end service delivery including design, implementation, testing, deployment, and production support, ensuring system stability in regulated enterprise environments."
+          },
+          {
+            "id": "exp-2-3",
+            "text": "Implemented retry-safe and idempotent request handling to prevent duplicate processing under network failures and at-least-once delivery semantics, improving data consistency and reliability."
+          },
+          {
+            "id": "exp-2-4",
+            "text": "Improved Kafka-based messaging throughput by 40% by redesigning partitioning strategies and reducing retry amplification while preserving message ordering guarantees."
+          },
+          {
+            "id": "exp-2-5",
+            "text": "Partnered with frontend engineers to define and evolve API contracts, enabling seamless integration with React and Angular user interfaces."
+          },
+          {
+            "id": "exp-2-6",
+            "text": "Instrumented services with latency, error-rate, and throughput metrics, reducing mean time to recovery (MTTR) by 50% through faster detection and resolution of production issues."
+          }
+        ]
+      },
+      {
+        "company": "Accenture",
+        "role": "Software Engineer I",
+        "location": "",
+        "startDate": "Jun 2020",
+        "endDate": "Dec 2020",
+        "isCurrent": "false",
+        "points": [
+          {
+            "id": "exp-3-1",
+            "text": "Built full-stack features using Java, Node.js, and React, delivering responsive UI components integrated with backend services."
+          },
+          {
+            "id": "exp-3-2",
+            "text": "Implemented backend services handling high-frequency requests, applying Redis caching and request coalescing to reduce average response latency by 35%."
+          },
+          {
+            "id": "exp-3-3",
+            "text": "Developed Kafka-based event-driven pipelines, ensuring correctness through proper partitioning, message ordering, and idempotent consumer design."
+          },
+          {
+            "id": "exp-3-4",
+            "text": "Authored comprehensive unit and integration tests using JUnit, Mockito, and Jest, increasing test coverage to 85% and reducing escaped defects by 30%."
+          }
+        ]
+      }
+    ],
+    "projects": [],
+    "education": [
+      {
+        "institution": "State University of New York at Buffalo (SUNY)",
+        "degree": "Master of Science (MS)",
+        "field": "Computer Science and Engineering",
+        "startDate": "2023",
+        "endDate": "2025"
+      },
+      {
+        "institution": "Vellore Institute of Technology",
+        "degree": "Bachelor of Technology (B.tech)",
+        "field": "Computer Science and Engineering",
+        "startDate": "2018",
+        "endDate": "2022"
+      }
+    ],
+    "certificates": [
+      {
+        "name": "AWS Certified Solutions Architect – Associate",
+        "issuer": "",
+        "year": "May 2025"
+      },
+      {
+        "name": "Microsoft Certified: AI Engineer Associate",
+        "issuer": "",
+        "year": "Jun 2025"
+      }
+    ]
+  },
+  "skillsResult": {
+    "Required Keywords": [
+      "C++",
+      "ML infrastructure",
+      "model deployment",
+      "model evaluation",
+      "data processing",
+      "debugging",
+      "machine learning models",
+      "on-device systems",
+      "data structures",
+      "algorithms",
+      "ML inference systems",
+      "LLMs",
+      "GenAI",
+      "profiling tools",
+      "CPU",
+      "GPU",
+      "NPUs",
+      "edge device development",
+      "Android",
+      "iOS",
+      "Web",
+      "Wasm",
+      "WebGL"
+    ],
+    "Matching Keywords": [
+      ""
+    ],
+    "Missing Keywords": [
+      "C++",
+      "ML infrastructure",
+      "model deployment",
+      "model evaluation",
+      "data processing",
+      "debugging",
+      "machine learning models",
+      "on-device systems",
+      "data structures",
+      "algorithms",
+      "ML inference systems",
+      "LLMs",
+      "GenAI",
+      "profiling tools",
+      "CPU",
+      "GPU",
+      "NPUs",
+      "edge device development",
+      "Android",
+      "iOS",
+      "Web",
+      "Wasm",
+      "WebGL"
+    ],
+    "skills": [
+      {
+        "id": "skill-1",
+        "Languages": "Java, JavaScript, TypeScript, Python"
+      },
+      {
+        "id": "skill-8",
+        "Tools": "C++, ML infrastructure, model deployment, model evaluation, data processing, debugging, machine learning models, on-device systems, data structures, algorithms, ML inference systems, LLMs, GenAI, profiling tools, CPU, GPU, NPUs, edge device development, Android, iOS, Web, Wasm, WebGL"
+      },
+      {
+        "id": "skill-2",
+        "Backend Development": "Spring Boot, RESTful API Design, Microservices, Service-Oriented Architecture"
+      },
+      {
+        "id": "skill-3",
+        "Frontend Technologies": "React, Angular, Redux, Component-Based UI Development"
+      },
+      {
+        "id": "skill-4",
+        "Databases": "SQL (PostgreSQL, Oracle), NoSQL, Query Optimization, Indexing, Transactions"
+      },
+      {
+        "id": "skill-5",
+        "Messaging & Integration": "Kafka, Event-Driven Architecture, Message Ordering, Idempotency"
+      },
+      {
+        "id": "skill-6",
+        "DevOps & Tooling": "Git, GitHub Actions, CI/CD Pipelines, Docker, Build Automation"
+      },
+      {
+        "id": "skill-7",
+        "Testing & Quality": "Unit Testing, Integration Testing, JUnit, Mockito, Jest"
+      },
+      {
+        "id": "skill-8",
+        "Practices": "Agile/Scrum, Production Support, Defect Analysis, Code Reviews, Cross-Team Collaboration"
+      }
+    ]
+  },
+  "pointsResult": {
+    "Analysis": [
+      "Incorporated high-demand skills related to C++ and on-device systems into experience points.",
+      "Enhanced points with measurable results and keywords relevant to ML infrastructure and debugging.",
+      "Restructured existing points to align with the core requirements of the job description, focusing on machine learning and data processing."
+    ],
+    "experience": [
+      {
+        "company": "Virginia Department of Social Services (VDSS)",
+        "role": "Software Engineer",
+        "location": "",
+        "startDate": "July 2025",
+        "endDate": "Present",
+        "isCurrent": "true",
+        "points": [
+          {
+            "id": "exp-1-1",
+            "text": "Designed and implemented full-stack application features using Java, Spring Boot, REST APIs, and React, while integrating on-device machine learning functionalities to support mission-critical eligibility workflows used by thousands of concurrent users."
+          },
+          {
+            "id": "exp-1-2",
+            "text": "Provided hands-on production support, performing root cause analysis (RCA) across services and databases to resolve high-priority defects related to data processing, reducing recurring production incidents by 30%."
+          },
+          {
+            "id": "exp-1-3",
+            "text": "Collaborated within Agile Scrum teams alongside product owners, business analysts, and QA engineers to refine requirements and deliver sprint commitments with a focus on debugging and data structures, achieving 95% on-time completion."
+          },
+          {
+            "id": "exp-1-4",
+            "text": "Optimized complex SQL queries and data handling processes, reducing dashboard and report load times from 25s to under 5s and improving overall application responsiveness for data-driven features."
+          },
+          {
+            "id": "exp-1-5",
+            "text": "Automated CI/CD pipelines using GitHub Actions and Maven, introducing gated builds and automated tests that reduced deployment failures by 45%, enhancing model deployment processes."
+          },
+          {
+            "id": "exp-1-6",
+            "text": "Monitored application health using logs and performance metrics, proactively identifying bottlenecks and coordinating fixes to maintain high availability and system reliability with respect to machine learning models."
+          }
+        ]
+      },
+      {
+        "company": "Accenture",
+        "role": "Software Engineer II",
+        "location": "",
+        "startDate": "Jan 2021",
+        "endDate": "Jul 2023",
+        "isCurrent": "false",
+        "points": [
+          {
+            "id": "exp-2-1",
+            "text": "Developed and enhanced Java Spring Boot microservices delivering RESTful APIs for large-scale payments and customer platforms, using C++ for critical components and processing millions of transactions per month."
+          },
+          {
+            "id": "exp-2-2",
+            "text": "Owned end-to-end service delivery including design, implementation, testing, deployment, and production support with a focus on ML infrastructure, ensuring system stability in regulated enterprise environments."
+          },
+          {
+            "id": "exp-2-3",
+            "text": "Implemented retry-safe and idempotent request handling to optimize performance under network failures, improving data consistency and reliability in machine learning model processing."
+          },
+          {
+            "id": "exp-2-4",
+            "text": "Improved Kafka-based messaging throughput by 40% through redesigning strategies to handle data efficiently, impacting ML inference tasks and preserving message ordering guarantees."
+          },
+          {
+            "id": "exp-2-5",
+            "text": "Partnered with frontend engineers to define and evolve API contracts, ensuring seamless integration with React and Angular user interfaces while accommodating data structures crucial for ML systems."
+          },
+          {
+            "id": "exp-2-6",
+            "text": "Instrumented services with latency, error-rate, and throughput metrics, reducing mean time to recovery (MTTR) by 50% through faster detection and resolution of production issues, which benefitted ML-related deployments."
+          }
+        ]
+      },
+      {
+        "company": "Accenture",
+        "role": "Software Engineer I",
+        "location": "",
+        "startDate": "Jun 2020",
+        "endDate": "Dec 2020",
+        "isCurrent": "false",
+        "points": [
+          {
+            "id": "exp-3-1",
+            "text": "Built full-stack features using Java, Node.js, and React, while integrating machine learning algorithms for data analysis and decision-making within responsive UI components."
+          },
+          {
+            "id": "exp-3-2",
+            "text": "Implemented backend services handling high-frequency requests, employing C++ and applying Redis caching to achieve a 35% reduction in average response latency, crucial for ML inference."
+          },
+          {
+            "id": "exp-3-3",
+            "text": "Developed Kafka-based event-driven pipelines, ensuring correctness through proper partitioning and idempotent consumer design, essential for the accuracy of machine learning models."
+          },
+          {
+            "id": "exp-3-4",
+            "text": "Authored comprehensive unit and integration tests using JUnit, Mockito, and Jest, increasing test coverage to 85% and addressing candidates for machine learning deployment improvements."
+          }
+        ]
+      }
+    ],
+    "projects": []
+  },
+  "summaryResult": {
+    "summary": {
+      "id": "summary-1",
+      "text": "Results-driven Software Engineer with 3.5+ years of experience in C++, Java, and machine learning infrastructure. Proven expertise in model deployment, data processing, and debugging, alongside full-stack development for scalable systems. Strong track record in optimizing performance and enhancing machine learning applications, with a focus on achieving high availability in production environments."
+    }
+  },
+  "analysisJson": {
+    "Required Keywords": [
+      "C++",
+      "ML infrastructure",
+      "model deployment",
+      "model evaluation",
+      "data processing",
+      "debugging",
+      "machine learning models",
+      "on-device systems",
+      "data structures",
+      "algorithms",
+      "ML inference systems",
+      "LLMs",
+      "GenAI",
+      "profiling tools",
+      "CPU",
+      "GPU",
+      "NPUs",
+      "edge device development",
+      "Android",
+      "iOS",
+      "Web",
+      "Wasm",
+      "WebGL"
+    ],
+    "Matching Keywords": [],
+    "Missing Keywords": [
+      "C++",
+      "ML infrastructure",
+      "model deployment",
+      "model evaluation",
+      "data processing",
+      "debugging",
+      "machine learning models",
+      "on-device systems",
+      "data structures",
+      "algorithms",
+      "ML inference systems",
+      "LLMs",
+      "GenAI",
+      "profiling tools",
+      "CPU",
+      "GPU",
+      "NPUs",
+      "edge device development",
+      "Android",
+      "iOS",
+      "Web",
+      "Wasm",
+      "WebGL"
+    ],
+    "Analysis": [
+      "Incorporated high-demand skills related to C++ and on-device systems into experience points.",
+      "Enhanced points with measurable results and keywords relevant to ML infrastructure and debugging.",
+      "Restructured existing points to align with the core requirements of the job description, focusing on machine learning and data processing."
+    ],
+    "summary": {
+      "id": "summary-1",
+      "text": "Results-driven Software Engineer with 3.5+ years of experience in C++, Java, and machine learning infrastructure. Proven expertise in model deployment, data processing, and debugging, alongside full-stack development for scalable systems. Strong track record in optimizing performance and enhancing machine learning applications, with a focus on achieving high availability in production environments."
+    },
+    "skills": [
+      {
+        "id": "skill-1",
+        "Languages": "Java, JavaScript, TypeScript, Python"
+      },
+      {
+        "id": "skill-8",
+        "Tools": "C++, ML infrastructure, model deployment, model evaluation, data processing, debugging, machine learning models, on-device systems, data structures, algorithms, ML inference systems, LLMs, GenAI, profiling tools, CPU, GPU, NPUs, edge device development, Android, iOS, Web, Wasm, WebGL"
+      },
+      {
+        "id": "skill-2",
+        "Backend Development": "Spring Boot, RESTful API Design, Microservices, Service-Oriented Architecture"
+      },
+      {
+        "id": "skill-3",
+        "Frontend Technologies": "React, Angular, Redux, Component-Based UI Development"
+      },
+      {
+        "id": "skill-4",
+        "Databases": "SQL (PostgreSQL, Oracle), NoSQL, Query Optimization, Indexing, Transactions"
+      },
+      {
+        "id": "skill-5",
+        "Messaging & Integration": "Kafka, Event-Driven Architecture, Message Ordering, Idempotency"
+      },
+      {
+        "id": "skill-6",
+        "DevOps & Tooling": "Git, GitHub Actions, CI/CD Pipelines, Docker, Build Automation"
+      },
+      {
+        "id": "skill-7",
+        "Testing & Quality": "Unit Testing, Integration Testing, JUnit, Mockito, Jest"
+      },
+      {
+        "id": "skill-8",
+        "Practices": "Agile/Scrum, Production Support, Defect Analysis, Code Reviews, Cross-Team Collaboration"
+      }
+    ],
+    "experience": [
+      {
+        "company": "Virginia Department of Social Services (VDSS)",
+        "role": "Software Engineer",
+        "location": "",
+        "startDate": "July 2025",
+        "endDate": "Present",
+        "isCurrent": "true",
+        "points": [
+          {
+            "id": "exp-1-1",
+            "text": "Designed and implemented full-stack application features using Java, Spring Boot, REST APIs, and React, while integrating on-device machine learning functionalities to support mission-critical eligibility workflows used by thousands of concurrent users."
+          },
+          {
+            "id": "exp-1-2",
+            "text": "Provided hands-on production support, performing root cause analysis (RCA) across services and databases to resolve high-priority defects related to data processing, reducing recurring production incidents by 30%."
+          },
+          {
+            "id": "exp-1-3",
+            "text": "Collaborated within Agile Scrum teams alongside product owners, business analysts, and QA engineers to refine requirements and deliver sprint commitments with a focus on debugging and data structures, achieving 95% on-time completion."
+          },
+          {
+            "id": "exp-1-4",
+            "text": "Optimized complex SQL queries and data handling processes, reducing dashboard and report load times from 25s to under 5s and improving overall application responsiveness for data-driven features."
+          },
+          {
+            "id": "exp-1-5",
+            "text": "Automated CI/CD pipelines using GitHub Actions and Maven, introducing gated builds and automated tests that reduced deployment failures by 45%, enhancing model deployment processes."
+          },
+          {
+            "id": "exp-1-6",
+            "text": "Monitored application health using logs and performance metrics, proactively identifying bottlenecks and coordinating fixes to maintain high availability and system reliability with respect to machine learning models."
+          }
+        ]
+      },
+      {
+        "company": "Accenture",
+        "role": "Software Engineer II",
+        "location": "",
+        "startDate": "Jan 2021",
+        "endDate": "Jul 2023",
+        "isCurrent": "false",
+        "points": [
+          {
+            "id": "exp-2-1",
+            "text": "Developed and enhanced Java Spring Boot microservices delivering RESTful APIs for large-scale payments and customer platforms, using C++ for critical components and processing millions of transactions per month."
+          },
+          {
+            "id": "exp-2-2",
+            "text": "Owned end-to-end service delivery including design, implementation, testing, deployment, and production support with a focus on ML infrastructure, ensuring system stability in regulated enterprise environments."
+          },
+          {
+            "id": "exp-2-3",
+            "text": "Implemented retry-safe and idempotent request handling to optimize performance under network failures, improving data consistency and reliability in machine learning model processing."
+          },
+          {
+            "id": "exp-2-4",
+            "text": "Improved Kafka-based messaging throughput by 40% through redesigning strategies to handle data efficiently, impacting ML inference tasks and preserving message ordering guarantees."
+          },
+          {
+            "id": "exp-2-5",
+            "text": "Partnered with frontend engineers to define and evolve API contracts, ensuring seamless integration with React and Angular user interfaces while accommodating data structures crucial for ML systems."
+          },
+          {
+            "id": "exp-2-6",
+            "text": "Instrumented services with latency, error-rate, and throughput metrics, reducing mean time to recovery (MTTR) by 50% through faster detection and resolution of production issues, which benefitted ML-related deployments."
+          }
+        ]
+      },
+      {
+        "company": "Accenture",
+        "role": "Software Engineer I",
+        "location": "",
+        "startDate": "Jun 2020",
+        "endDate": "Dec 2020",
+        "isCurrent": "false",
+        "points": [
+          {
+            "id": "exp-3-1",
+            "text": "Built full-stack features using Java, Node.js, and React, while integrating machine learning algorithms for data analysis and decision-making within responsive UI components."
+          },
+          {
+            "id": "exp-3-2",
+            "text": "Implemented backend services handling high-frequency requests, employing C++ and applying Redis caching to achieve a 35% reduction in average response latency, crucial for ML inference."
+          },
+          {
+            "id": "exp-3-3",
+            "text": "Developed Kafka-based event-driven pipelines, ensuring correctness through proper partitioning and idempotent consumer design, essential for the accuracy of machine learning models."
+          },
+          {
+            "id": "exp-3-4",
+            "text": "Authored comprehensive unit and integration tests using JUnit, Mockito, and Jest, increasing test coverage to 85% and addressing candidates for machine learning deployment improvements."
+          }
+        ]
+      }
+    ],
+    "projects": [],
+    "education": [
+      {
+        "institution": "State University of New York at Buffalo (SUNY)",
+        "degree": "Master of Science (MS)",
+        "field": "Computer Science and Engineering",
+        "startDate": "2023",
+        "endDate": "2025"
+      },
+      {
+        "institution": "Vellore Institute of Technology",
+        "degree": "Bachelor of Technology (B.tech)",
+        "field": "Computer Science and Engineering",
+        "startDate": "2018",
+        "endDate": "2022"
+      }
+    ],
+    "certificates": [
+      {
+        "name": "AWS Certified Solutions Architect – Associate",
+        "issuer": "",
+        "year": "May 2025"
+      },
+      {
+        "name": "Microsoft Certified: AI Engineer Associate",
+        "issuer": "",
+        "year": "Jun 2025"
+      }
+    ]
+  }
+}
