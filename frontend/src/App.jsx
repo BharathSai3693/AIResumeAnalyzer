@@ -1278,6 +1278,10 @@ function App() {
           )}
         </section>
       </main>
+      <footer className="footer">
+        <div>Developed by Sai Bharath Padigala</div>
+        <div>Contact: saibharath3693@gmail.com</div>
+      </footer>
     </div>
   )
 }
